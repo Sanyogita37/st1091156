@@ -1,1 +1,16 @@
-AddCustomerV2
+Actual Script
+____________________________________________________________________________
+
+// Valid Input
+AddCustomer "5623159", "John", "Herv", "1100SunsetBlvd", "Edson", "Alberta", "T7L1C8", "(588)469-1234", "jr@sample.com"
+
+// Valid Input
+AddCustomer "5612360", "Kayla", "Herv", "1100SunsetBlvd", "Edson", "Alberta", "T7L1C8", "(588)469-1234", "jr@sample.com"
+
+// Valid Input
+AddCustomer "5623160", "Sam", "Herv", "1100SunsetBlvd", "Edson", "Alberta", "T7L1C8", "(588)469-1234", "jr@sample.com"
+
+// Invalid Input
+AddCustomer "5623161", "Ken", "", "1100SunsetBlvd", "Edson", "Alberta", "T7L1C8", "(588)469-1234", "jr@sample.com"
+
+____________________________________________________________________________
