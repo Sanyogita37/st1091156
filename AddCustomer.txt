@@ -1,3 +1,5 @@
+"To test new ideas"
+
 // Valid Input
 AddCustomer "5623159", "John", "Herv", "1100SunsetBlvd", "Edson", "Alberta", "T7L1C8", "(588)469-1234", "jr@sample.com"
 
