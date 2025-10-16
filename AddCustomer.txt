@@ -18,3 +18,4 @@ AddCustomer "5623161", "Ken", "", "1100SunsetBlvd", "Edson", "Alberta", "T7L1C8"
 // Invalid Input2
 AddCustomer " ", "Rachel", "Sen", "1100SunsetBlvd", "Edson", "Alberta", "T7L1C8", "(588)469-1234", "jr@sample.com"
 ____________________________________________________________________________
+
