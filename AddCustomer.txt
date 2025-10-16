@@ -12,7 +12,9 @@ AddCustomer "5612360", "Kayla", "Herv", "1100SunsetBlvd", "Edson", "Alberta", "T
 // Valid Input
 AddCustomer "5623160", "Sam", "Herv", "1100SunsetBlvd", "Edson", "Alberta", "T7L1C8", "(588)469-1234", "jr@sample.com"
 
-// Invalid Input
+// Invalid Input1
 AddCustomer "5623161", "Ken", "", "1100SunsetBlvd", "Edson", "Alberta", "T7L1C8", "(588)469-1234", "jr@sample.com"
 
+// Invalid Input2
+AddCustomer " ", "Rachel", "Sen", "1100SunsetBlvd", "Edson", "Alberta", "T7L1C8", "(588)469-1234", "jr@sample.com"
 ____________________________________________________________________________
